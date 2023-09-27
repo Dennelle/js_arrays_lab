@@ -21,3 +21,25 @@ Exercise 2:
 
 
 console.log('Exercise 2 Result:\n',  foods);
+
+/*
+Exercise 3:
+  - Add the string 'taco' to the foods array so that 'taco' is the first food in the array.
+*/
+
+// Complete Exercise 3 below...
+
+
+
+console.log('Exercise 3 Result:\n', foods);
+
+/*
+Exercise 4:
+  - Access the string 'pizza' (based upon its known position) in the foods array and assign to a variable named favFood.
+*/
+
+// Complete Exercise 4 below...
+
+
+
+console.log('Exercise 4 Result:\n', favFood);
